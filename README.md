@@ -159,7 +159,7 @@ It will **not** work drop-in with Gazelle or other tracker codebases without sch
 
 ## Production Status
 
-Ocelot-U232 is running in production at **[Murder By Sound / Midnight Scene](https://midnightscene.best)** — a private tracker serving real users with real torrents. The anti-cheat system, SwarmPromoter, and dynamic intervals have all been validated against live traffic.
+Ocelot-U232 is running in production at **[Murder By Sound / U-232](https://u-232.com)** — a private tracker serving real users with real torrents. The anti-cheat system, SwarmPromoter, and dynamic intervals have all been validated against live traffic.
 
 -----
 
